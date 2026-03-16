@@ -6,3 +6,4 @@ ignition/deployments/
 coverage/
 coverage.json
 typechain-types/
+.gitignore
